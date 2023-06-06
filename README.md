@@ -1,14 +1,3 @@
-<p align="center">
-  <img style="width:8rem; height:auto" src="https://cdn.dribbble.com/users/1787323/screenshots/10091971/media/d43c019bfeff34be8816481e843ea8c1.png"/>
-</p>
-
-<h1 align="center">Hi 👋, I'm Horacio cano</h1>
-<h3 align="center">A passionate frontend developer from Argentina</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=22-00&label=Profile%20views&color=0e75b6&style=flat" alt="22-00" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=22-00" alt="22-00" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/horacio-cano-b19545243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/horacio-cano-b19545243" height="30" width="40" /></a>
@@ -23,3 +12,23 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=22-00&show_icons=true&locale=en" alt="22-00" /></p>
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> For More Information, Please Check Out or Connect Me Via
+
+<p align="center">  
+ 
+  <a href="https://www.linkedin.com/in/horacio-cano-b19545243" target="_blank">
+    <img align="center" alt="TienHuynh-TN | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://www.facebook.com/horacio.cano.90" target="_blank">
+      <img align="center" alt="TienHuynh-TN | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
+  </a> &nbsp;&nbsp;
+<p> 
+  
+<div align="center">
+  :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
+  &copy; 2023 Horacio cano
+</div>
+
+------
+
+Last Edited on: 22/12/2021
