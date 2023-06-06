@@ -1,3 +1,8 @@
+<a href="#"><img width="80%" height="auto" src="https://media.licdn.com/dms/image/D4D16AQHXYhx5Ku7Gvg/profile-displaybackgroundimage-shrink_350_1400/0/1686023598545?e=1691625600&v=beta&t=08qXAd5Fanxrrtw9whgE-ySd8sGNipHu5mvJSluqxYM" height="40px"/></a>
+<h1 align="center"><b>Hi , I'm Horacio Cano </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/horacio-cano-b19545243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/horacio-cano-b19545243" height="30" width="40" /></a>
